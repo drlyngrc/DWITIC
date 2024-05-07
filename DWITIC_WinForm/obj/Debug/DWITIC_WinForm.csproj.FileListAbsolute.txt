@@ -1,0 +1,12 @@
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\bin\Debug\DWITIC_WinForm.exe.config
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\bin\Debug\DWITIC_WinForm.exe
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\bin\Debug\DWITIC_WinForm.pdb
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.csproj.AssemblyReference.cache
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.Properties.Resources.resources
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.csproj.GenerateResource.cache
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.csproj.CoreCompileInputs.cache
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.exe
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.pdb
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.Scan.resources
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.Upload.resources
+D:\Programming\C lang\DWITIC\DWITIC_WinForm\obj\Debug\DWITIC_WinForm.Main.resources
