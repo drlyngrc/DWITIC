@@ -1,6 +1,8 @@
-![DWITIC Logo](/Image/logo.png)
+<div style="overflow: auto;">
+    <img src="/Image/dwitic.png" alt="DWITIC" width="700" height="200" style="display: block; margin: 0 auto;">
+    <img src="/Image/logo.png" alt="DWITIC Logo" width="220" height="220" style="display: block; margin: 0 auto;">
+</div>
 
-# DWITIC: Digital Waste Identification Tool for Intelligent Categorization
 
 DWITIC is a digital tool designed to simplify waste management processes by providing intelligent categorization of waste items through image recognition technology.
 
