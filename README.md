@@ -45,3 +45,6 @@ To get started with DWITIC, follow these steps:
 [Guinoban, Glenn M.](https://github.com/glngnbn)   
 [Lalongisip, Darlyne Grace M.](https://github.com/drlyngrc)  
 
+## Adviser
+[Fatima Marie Agdon, MSCS](https://github.com/marieemoiselle)
+
