@@ -38,7 +38,7 @@ To get started with DWITIC, follow these steps:
 
  
 
-## People Behind
+## Developer
 **CS 2202**  
 [Barican, John Andrei A.](https://github.com/e4677)  
 [Elopre, Jake Maxim O.](https://github.com/immaximo)  
