@@ -1,4 +1,4 @@
-(/logo.png)
+(/Image/logo.png)
 # DWITIC: Digital Waste Identification Tool for Intelligent Categorization
 
 DWITIC is a digital tool designed to simplify waste management processes by providing intelligent categorization of waste items through image recognition technology.
