@@ -1,5 +1,5 @@
 <div style="overflow: auto;">
-    <img src="/Image/dwitic.png" alt="DWITIC" width="600" height="150" style="display: block; margin: 0 auto;">
+    <img src="/Image/dwitic.png" alt="DWITIC" width="630" height="150" style="display: block; margin: 0 auto;">
     <img src="/Image/logo.png" alt="DWITIC Logo" width="150" height="150" style="display: block; margin: 0 auto;">
 </div>
 <br>  
