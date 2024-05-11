@@ -6,7 +6,7 @@
 <br>  
 <div align="center">
   <blockquote>
-    <em>Your smart tool for sorting waste hassle-free! <br>DWITIC makes it easy to manage waste – just scan and upload a picture of your item, <br>and it tells you how to recycle or dispose of it properly. </em>
+    <em>Your smart tool for sorting waste hassle-free! <br>DWITIC makes it easy to manage waste – just scan or upload a picture of your item, <br>and it tells you how to recycle or dispose of it properly. </em>
     <br>
     <br>
     <em><b>No more confusion, just simple and straightforward waste sorting with DWITIC!</b></em>
