@@ -9,7 +9,7 @@
     <em>Your smart tool for sorting waste hassle-free! <br>DWITIC makes it easy to manage waste – just scan and upload a picture of your item, <br>and it tells you how to recycle or dispose of it properly. </em>
     <br>
     <br>
-    <em>No more confusion, just simple and, straightforward waste sorting with DWITIC!</em
+    <em><b>No more confusion, just simple and straightforward waste sorting with DWITIC!</b></em>
   </blockquote>
 </div>
 <br>  
@@ -18,7 +18,7 @@
 ***DWITIC*** is an innovative solution designed to address the challenges associated with waste management and environmental sustainability. DWITIC offers a platform for identification and categorization of waste items. By the power of image recognition algorithms, DWITIC automates the process of waste categorization, enabling users to upload images and scan waste items and receive their composition and classification.
 
 Aligned with ***Sustainable Development Goal 12 – "Responsible Consumption and Production"***, DWITIC promotes sustainable practices by facilitating the proper identification and categorization of waste items. By providing users with actionable information on waste composition and management, DWITIC empowers individuals and organizations to make informed decisions that contribute to responsible consumption and production patterns. DWITIC encourages users to minimize waste generation, and optimize resource utilization.  
-<hr>  
+ 
 
 ## Features
 - **Upload and Scan**: Upload waste item images for automatic categorization.
@@ -30,13 +30,13 @@ Aligned with ***Sustainable Development Goal 12 – "Responsible Consumption and
 - **User-Friendly Interface**: Simple and intuitive interface for easy usage.
   
 - **Sustainable Development Goals (SDG) Display**: View associated SDGs for waste items, promoting environmental awareness and sustainable practices.  
-<hr>  
+  
 
 ## Getting Started
 To get started with DWITIC, follow these steps:
 
 
-<hr>  
+ 
 
 ## People Behind
 **CS 2202**  
