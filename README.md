@@ -21,7 +21,7 @@ Aligned with ***Sustainable Development Goal 12 – "Responsible Consumption and
  
 
 ## Features
-- **Upload and Scan**: Upload waste item images for automatic categorization.
+- **Upload and Scan**: Upload and scan waste item images for automatic categorization.
   
 - **Intelligent Categorization**: Categorize waste items using image recognition.
   
