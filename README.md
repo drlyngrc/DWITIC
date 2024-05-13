@@ -33,7 +33,7 @@ Aligned with ***Sustainable Development Goal 12 – "Responsible Consumption and
   
 ## Techinical Requirements
 The following were used to develop DWITIC:
-- **C#** - an object-oriented programming language created by Microsoft that runs on the .NET Framework in this study.
+- **C#** - an object-oriented programming language created by Microsoft that runs on the .NET Framework in this study.asd
 
 - **WinForms** - DWITIC was built by utilizing the WinForms framework provided by Microsoft. WinForms facilitated the development of a graphical user interface (GUI) for DWITIC, allowing users to interact with the application through intuitive forms, buttons, and other UI elements.
   
