@@ -31,12 +31,16 @@ Aligned with ***Sustainable Development Goal 12 – "Responsible Consumption and
   
 - **Sustainable Development Goals (SDG) Display**: View associated SDGs for waste items, promoting environmental awareness and sustainable practices.  
   
+## Techinical Requirements
+The following were used to develop DWITIC:
+- **C#** - an object-oriented programming language created by Microsoft that runs on the .NET Framework in this study.
 
-## Getting Started
-To get started with DWITIC, follow these steps:
+- **WinForms** - DWITIC was built by utilizing the WinForms framework provided by Microsoft. WinForms facilitated the development of a graphical user interface (GUI) for DWITIC, allowing users to interact with the application through intuitive forms, buttons, and other UI elements.
+  
+- **ML.NET** - a machine learning framework for .NET developers, was used to implement machine learning functionalities within DWITIC. It provided a set of libraries and tools for training and deploying machine learning models, enabling DWITIC to perform tasks such as image recognition and waste categorization based on visual characteristics.
+  
+- **Emgu.CV** - a cross-platform wrapper for OpenCV (Open Source Computer Vision Library), was utilized to incorporate computer vision capabilities into DWITIC. It provided access to a wide range of computer vision algorithms and functions, facilitating tasks such as image processing, feature detection, object recognition, and more. 
 
-
- 
 
 ## Developer
 **CS 2202**  
@@ -46,5 +50,5 @@ To get started with DWITIC, follow these steps:
 [Lalongisip, Darlyne Grace M.](https://github.com/drlyngrc)  
 
 ## Adviser
-[Fatima Marie Agdon, MSCS](https://github.com/marieemoiselle)
+[Ms. Fatima Marie P. Agdon, MSCS](https://github.com/marieemoiselle)
 
