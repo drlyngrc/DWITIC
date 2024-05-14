@@ -41,6 +41,43 @@ The following were used to develop DWITIC:
   
 - **Emgu.CV** - a cross-platform wrapper for OpenCV (Open Source Computer Vision Library), was utilized to incorporate computer vision capabilities into DWITIC. It provided access to a wide range of computer vision algorithms and functions, facilitating tasks such as image processing, feature detection, object recognition, and more. 
 
+## Getting Started
+### How to Use DWITIC: Scan and Upload Features
+
+**Scan**
+
+1. **Open Camera**:
+   - Click the "Scan" button to open your device’s camera.
+
+2. **Capture Image**:
+   - Once the camera is open, you can click the "Scan" button again to capture an image.
+   - Alternatively, you can identify the waste without capturing the image. Just click the "Identify" button to process the current view from the camera.
+
+3. **Identification**:
+   - After capturing the image or clicking the "Identify" button, DWITIC will process the image to identify the waste item.
+
+4. **View Information**:
+   - Once identified, a warning message may appear if there's an immediate concern.
+   - The system will display detailed information about the waste item, including its category, recycling instructions, and relevant Sustainable Development Goals (SDGs).
+
+**Upload**
+
+1. **Open File Manager**:
+   - Click the "Upload" button to open the file manager.
+
+2. **Select Image**:
+   - Choose an image of the waste item from your files and upload it.
+
+3. **Identification**:
+   - After uploading, DWITIC will process the image to identify the waste item.
+
+4. **View Information**:
+   - The system will display detailed information about the waste item, including its category, recycling instructions, and relevant SDGs.
+
+---
+
+In both the scan and upload processes, you will receive comprehensive information about the waste item, helping you understand how to recycle or dispose of it properly while also showing how it aligns with sustainable practices.  
+
 
 ## Developer
 **CS 2202**  
