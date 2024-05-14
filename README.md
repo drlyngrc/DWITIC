@@ -30,7 +30,16 @@ Aligned with ***Sustainable Development Goal 12 – "Responsible Consumption and
 - **User-Friendly Interface**: Simple and intuitive interface for easy usage.
   
 - **Sustainable Development Goals (SDG) Display**: View associated SDGs for waste items, promoting environmental awareness and sustainable practices.  
-  
+
+## Purpose
+
+DWITIC is designed to enhance solid waste management in local households by detecting, processing, and categorizing images of various waste items. The system allows users to either upload an image of a waste item or instantly scan it, providing specific details and information about the item, including:
+
+- **Categorization**: Determining the appropriate category for the waste item to ensure proper disposal or recycling.
+- **Sustainable Development Goals (SDG) Alignment**: Displaying how the waste item aligns with relevant SDGs, raising awareness about its environmental impact.
+- **Utilization and Management**: Offering suggestions on how the waste item can be managed or utilized properly.  
+
+
 ## Techinical Requirements
 The following were used to develop DWITIC:
 - **C#** - an object-oriented programming language created by Microsoft that runs on the .NET Framework in this study.
